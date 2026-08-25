@@ -4,17 +4,25 @@
 
 ### Study notes on NLP fundamentals and reliable machine learning for text classification
 
-From tokenization to conformal prediction — measuring what a classifier actually knows, and when it is about to be wrong.
+From tokenization to conformal prediction — measuring what a classifier actually knows,<br>and when it is about to be wrong.
 
-<img src="images/reliability_diagram.png" alt="Reliability diagrams comparing a well-calibrated and an uncalibrated model" width="560">
+<div style="background: white; border-radius: 12px; padding: 12px; display: inline-block; margin: 16px 0;">
+
+<img src="images/reliability_diagram.png" alt="Reliability diagrams comparing a well-calibrated and an uncalibrated model" width="520">
+
+</div>
 
 *The problem this collection circles around: a model can be 99% confident and still be wrong.*
 
+<p>
+
 ![Notes](https://img.shields.io/badge/notes-19-blue)
-![Words](https://img.shields.io/badge/words-46k%2B-orange)
-![Resources](https://img.shields.io/badge/curated_resources-440%2B-purple)
+![Words](https://img.shields.io/badge/words-46k-orange)
+![Resources](https://img.shields.io/badge/resources-440-purple)
 ![Math](https://img.shields.io/badge/derivations-full_LaTeX-9cf)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+</p>
 
 </div>
 
