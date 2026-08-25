@@ -1,8 +1,6 @@
 <div align="center">
 
-# NLP Notes
-
-### Study notes on Natural Language Processing — from fundamentals to modern language models
+# Study notes on Natural Language Processing — from fundamentals to modern language models
 
 From tokenization to transformers — how text becomes meaning,<br>and how models learn to understand it.
 
